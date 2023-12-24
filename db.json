@@ -1,0 +1,25 @@
+{
+  "userList": [
+    {
+      "id": "Marco",
+      "password": "zxcvb",
+      "fullName": "Marco Phoenix",
+      "email": "marco@gmail.com",
+      "phone": "023213"
+    },
+    {
+      "id": "323",
+      "password": "12244",
+      "fullName": "swdfdfd",
+      "email": "f2sds@gmial.com",
+      "phone": "02334"
+    },
+    {
+      "id": "Luffy",
+      "password": "qwert",
+      "fullName": "Luffy D.",
+      "email": "luffy@gmail.com",
+      "phone": "021343"
+    }
+  ]
+}
